@@ -1,7 +1,7 @@
 # Hi
 
-Hi there, my name is Marjan and I push some things from time to time.
-I am currently learning Rust, check out this repo: https://github.com/Marjan112/chatty
+Hi there, my name is Marjan and I push some things from time to time.  
+I am currently learning Rust, check out this repo: https://github.com/Marjan112/chatty  
 
 ![Top Langs](https://github-readme-stats-marjan112.vercel.app/api/top-langs/?username=marjan112&layout=compact&theme=catppuccin_mocha&hide=html,css)
 
